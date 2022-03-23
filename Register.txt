@@ -1,1 +1,3 @@
 Ini merupakan progress bagian fitur registrasi
+
+Fitur register sudah selesai dikerjakan
